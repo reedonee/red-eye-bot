@@ -8,7 +8,6 @@ const client = new Client({
     ]
 });
 
-require('dotenv').config();
 
 // Store temporary channels and their owners
 const tempChannels = new Map();
