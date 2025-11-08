@@ -9,5 +9,8 @@
   "dependencies": {
     "discord.js": "^14.14.1",
     "dotenv": "^16.3.1"
-  }
+  },
+  "keywords": ["discord", "bot", "voice-channels"],
+  "author": "Your Name",
+  "license": "MIT"
 }
